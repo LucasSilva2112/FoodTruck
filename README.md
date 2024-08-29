@@ -1,4 +1,4 @@
-# project-uni9 - Start Truck
+# project-uni9 - Primeiro Semestre
 Projeto feito no primeiro semestre, com o principio de mostrar nossas habilidades nas matérias que tivemos durante todo processo!  
 Iremos atualizando esse projeto com a sequencia dos seguintes semestres. Para esse semestre foi utilizado, HTML, CSS e Javascript. Sempre prezando as melhores praticas do mercado.  
 
